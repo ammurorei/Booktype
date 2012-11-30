@@ -2,3 +2,7 @@
 *.pyc
 *~
 .emacs*
+*.env
+*.sqlite
+*.log
+settings.py
